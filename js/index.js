@@ -29,6 +29,13 @@ function tab(n)
     for(var i=0;i<4;i++ )
     {
         
+        for(var i=0;i<4;i++ )
+    {
+        for(var i=0;i<4;i++ )
+    {
+        for(var i=0;i<4;i++ )
+    {
+        
         var left=n-1-i;
         if (left<0)
         {
